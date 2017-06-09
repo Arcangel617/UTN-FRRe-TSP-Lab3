@@ -1,0 +1,6 @@
+C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\LabIII\ModeloParcial\ModeloParcial\bin\Debug\ModeloParcial.exe.config
+C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\LabIII\ModeloParcial\ModeloParcial\obj\Debug\ModeloParcial.csprojResolveAssemblyReference.cache
+C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\LabIII\ModeloParcial\ModeloParcial\bin\Debug\ModeloParcial.exe
+C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\LabIII\ModeloParcial\ModeloParcial\bin\Debug\ModeloParcial.pdb
+C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\LabIII\ModeloParcial\ModeloParcial\obj\Debug\ModeloParcial.exe
+C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\LabIII\ModeloParcial\ModeloParcial\obj\Debug\ModeloParcial.pdb

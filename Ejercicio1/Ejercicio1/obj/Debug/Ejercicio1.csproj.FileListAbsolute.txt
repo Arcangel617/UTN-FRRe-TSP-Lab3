@@ -1,0 +1,9 @@
+c:\users\arcangel\documents\visual studio 2012\Projects\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+c:\users\arcangel\documents\visual studio 2012\Projects\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+c:\users\arcangel\documents\visual studio 2012\Projects\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+c:\users\arcangel\documents\visual studio 2012\Projects\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csprojResolveAssemblyReference.cache
+c:\users\arcangel\documents\visual studio 2012\Projects\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+c:\users\arcangel\documents\visual studio 2012\Projects\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
+C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\LabIII\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\LabIII\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\Arcangel\Documents\Visual Studio 2012\Projects\LabIII\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
