@@ -38,5 +38,7 @@ namespace ModeloParcial
         {
             return price;
         }
+
+        public void arrancar() { }
     }
 }

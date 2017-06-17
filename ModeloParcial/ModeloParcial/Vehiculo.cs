@@ -24,6 +24,6 @@ namespace ModeloParcial
             return "[Nombre: "+Nombre+"; Marca: "+Marca+"; Precio: $"+Precio+"]";
         }
 
-        public void arrancar()
+        public void arrancar() { }
     }
 }
